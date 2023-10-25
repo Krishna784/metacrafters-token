@@ -18,6 +18,6 @@ You can deploy this contract on a blockchain network that supports Solidity smar
 ## // Author
 Krishna Tripathy
 
-License
+## License
 This smart contract is released under the MIT License. You can find the full license text in the SPDX-License-Identifier comment at the beginning of the code.
 
