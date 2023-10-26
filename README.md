@@ -1,4 +1,4 @@
-# HelloWorld Solidity Token
+# HelloWorld(HLW) Solidity Token
 This is a simple Solidity smart contract named MyToken that represents a basic token with minting and burning functionalities. The contract is designed to manage a custom cryptocurrency called "HelloWorld" with the symbol "HLW."
 
 ## Overview
